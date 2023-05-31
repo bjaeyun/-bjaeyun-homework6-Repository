@@ -1,1 +1,1 @@
-# -bjaeyun-homework6-Repository
+# homework6-Repository
